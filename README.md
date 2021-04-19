@@ -4,7 +4,7 @@ Code and information related to paper  IJCNN 2021 paper "Adversarial Attacks and
 [Paper](https://arxiv.org/pdf/2003.00883.pdf)
 
 ### Cite
-If you use this dataset or any code for your research, please consider citing:
+If you use any code for your research, please consider citing:
 ```
 @article{pestana2020adversarial,
   title={Adversarial Perturbations Prevail in the Y-Channel of the YCbCr Color Space},
